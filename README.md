@@ -1,3 +1,6 @@
+#add commit 2
+#add commit 1
+
 ![ApFreeWiFiDog](https://github.com/liudf0716/apfree_wifidog/blob/master/logo.png)
 
 
